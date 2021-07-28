@@ -1,4 +1,4 @@
-# Hi! My name is Adriana DiPietro, let's get to know eachother
+# Hi! My name is Adriana DiPietro, let's get to know eachother!
 
 ## I'm a Full Stack Software Engineer
 
@@ -7,16 +7,21 @@
 -  :white_heart: I'm continuosly learning and growing. Reach out to me + let's learn together! 
 -  :dizzy: I love to cook, garden, and try new restaurants!
 
+
 ### Technology Stack includes ...
 -  JavaScript
 -  React, Redux
 -  CSS, HTML
 -  Ruby on Rails 
 
-### :ringed_planet: Check out my blog [here](https://dev.to/am20dipi) :ringed_planet: 
-#### My [latest](https://dev.to/am20dipi/introduction-to-learning-promises-3c3m) blog
 
-### :rainbow: C'mon, connect with me! 
+
+### :ringed_planet: Check out my blog [here](https://dev.to/am20dipi) :ringed_planet: 
+-  My [latest](https://dev.to/am20dipi/introduction-to-learning-promises-3c3m) blog
+
+
+
+### :flying_saucer: Connect with me! :flying_saucer:
  -  Email: adrianadipietro4@gmail.com
  -  [LinkedIn](https://www.linkedin.com/in/adriana-dipietro)
 
