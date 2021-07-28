@@ -13,9 +13,9 @@
 -  CSS, HTML
 -  Ruby on Rails 
 
-### Check out my blog [https://dev.to/am20dipi](y). 
+### Check out my blog [here](https://dev.to/am20dipi). 
 
 ### Connect with me ...
  -  Email: adrianadipietro4@gmail.com
- -  [https://www.linkedin.com/in/adriana-dipietro](LinkedIn)
+ -  [LinkedIn](https://www.linkedin.com/in/adriana-dipietro)
 
