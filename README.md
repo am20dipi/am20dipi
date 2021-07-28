@@ -24,4 +24,5 @@
 ### :flying_saucer: Connect with me! :flying_saucer:
  -  Email: adrianadipietro4@gmail.com
  -  [LinkedIn](https://www.linkedin.com/in/adriana-dipietro)
+ -  I am located in the Greater NYC Metro Area :)
 
