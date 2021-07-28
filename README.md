@@ -14,8 +14,9 @@
 -  Ruby on Rails 
 
 ### :ringed_planet: Check out my blog [here](https://dev.to/am20dipi) :ringed_planet: 
+#### My [latest](https://dev.to/am20dipi/introduction-to-learning-promises-3c3m) blog
 
-### Connect with me ...
+### :rainbow: C'mon, connect with me! 
  -  Email: adrianadipietro4@gmail.com
  -  [LinkedIn](https://www.linkedin.com/in/adriana-dipietro)
 
