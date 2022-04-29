@@ -2,10 +2,9 @@
 
 ## I'm a Full Stack Software Engineer
 
--  :speech_balloon: I’m currently learning the fundamentals of Object Orientated Programming and web application development. 
--  :first_quarter_moon_with_face: I’m looking to collaborate on projects that ultimately help people and achieve a higher goal. 
--  :white_heart: I'm continuosly learning and growing. Reach out to me + let's learn together! 
--  :dizzy: I love to cook, garden, and trying new restaurants!
+-  I’m currently learning the fundamentals of Object Oriented Programming and web application development. 
+-  I’m looking to collaborate on projects that ultimately help people and achieve a higher goal. 
+-  I'm continuosly learning and growing. Reach out to me + let's learn together! 
 
 
 ### Technology Stack includes ...
