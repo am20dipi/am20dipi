@@ -1,4 +1,4 @@
-# Hi! My name is Adriana DiPietro, let's get to know eachother!
+# ADRIANA DIPIETRO
 
 ## I'm a Full Stack Software Engineer
 
