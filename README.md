@@ -2,21 +2,16 @@
 
 ## I'm a Full Stack Software Engineer
 
--  I’m currently learning the fundamentals of Object Oriented Programming and web application development. 
+-  I currently work in Ruby on Rails for web application development. 
 -  I’m looking to collaborate on projects that ultimately help people and achieve a higher goal. 
 -  I'm continuosly learning and growing. Reach out to me + let's learn together! 
 
 
 ### Technology Stack includes ...
--  JavaScript
--  React, Redux
--  CSS, HTML
--  Ruby 
 -  Ruby on Rails 
+-  ReactJS
 -  Webpack
--  Babel
 -  NodeJS
-
 
 
 ### :ringed_planet: Check out my blog [here](https://dev.to/am20dipi) :ringed_planet: 
